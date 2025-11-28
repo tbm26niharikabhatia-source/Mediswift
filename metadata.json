@@ -1,0 +1,5 @@
+{
+  "name": "MediSwift",
+  "description": "A mobile-first, full-stack medicine delivery platform with pharmacist verification, inventory management, and AI-powered health assistance.",
+  "requestFramePermissions": []
+}
